@@ -78,3 +78,9 @@ graph TD
 - **Frontend:** React, Vite, Recharts, Leaflet, D3.js
 - **Backend:** FastAPI, SQLite, SQLAlchemy, APScheduler
 - **AI/ML:** Scikit-learn, Pandas, Numpy
+
+📁 Project Files & Resources
+
+Due to file size limitations on GitHub, some project resources such as datasets, media files, and additional components are hosted externally.
+
+👉 Download full project resources here: 
