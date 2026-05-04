@@ -83,4 +83,4 @@ graph TD
 
 Due to file size limitations on GitHub, some project resources such as datasets, media files, and additional components are hosted externally.
 
-👉 Download full project resources here: 
+👉 Download full project resources here: https://drive.google.com/drive/folders/1-VhW2ph45MNMHDQR3uxVnhuPjFrBTEh1?usp=sharing
